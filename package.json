@@ -1,0 +1,29 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "typescript demo",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jxmyh99/typescript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "zero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jxmyh99/typescript/issues"
+  },
+  "homepage": "https://github.com/jxmyh99/typescript#readme",
+  "devDependencies": {
+    "@types/jquery": "^3.3.29",
+    "gulp-typescript": "^5.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
